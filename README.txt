@@ -1,1 +1,1 @@
-This repository is geared towards the learning fundamentals of C++. 
+This repository is geared towards learning the fundamentals of C++. 

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  main.cpp
+c:\users\juliu\cppprogrammingpractice\practicesession1\math expressions\main.cpp(23): warning C4101: 'largest_angel': unreferenced local variable
+  Math Expressions.vcxproj -> C:\Users\juliu\CppProgrammingPractice\PracticeSession1\Math Expressions\Debug\Math Expressions.exe

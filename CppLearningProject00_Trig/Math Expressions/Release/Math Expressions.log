@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  main.cpp
+main.cpp(21): warning C4101: 'largest_angel': unreferenced local variable
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Math Expressions.vcxproj -> C:\Users\juliu\CppProgrammingPractice\PracticeSession1\Math Expressions\Release\Math Expressions.exe
